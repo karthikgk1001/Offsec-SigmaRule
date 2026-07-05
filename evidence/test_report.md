@@ -1,18 +1,18 @@
-\# 🧪 Detection Validation Report
+# 🧪 Detection Validation Report
 
 
 
-\## Test Environment
+## Test Environment
 
-\- \*\*OS\*\*: Windows 11 (Build 22621)
+- **OS**: Windows 11 (Build 22621)
 
-\- \*\*Sysmon Version\*\*: 15.0.0
+- *Sysmon Version**: 15.0.0
 
-\- \*\*Execution Context\*\*: Standard user session (non-elevated)
+- **Execution Context**: Standard user session (non-elevated)
 
 
 
-\## Attack Simulation Command
+## Attack Simulation Command
 
 ```cmd
 
